@@ -9,6 +9,12 @@ This script implements an interactive XO (Tic-Tac-Toe) game in the terminal with
 - **Multiple Move Types**: Players can place/remove marks, exchange rows/columns, and swap marks.
 - **Score Tracking**: Players score points based on their moves.
 - **File Loading**: Load a game grid from a file to continue playing a saved game.
+  the game grid FORMAT should look like this the input xo doesnt mater also it can be any size :
+
+  |X|O|X|
+  |X|X|O|
+  |O|X|O|
+
 - **Game Restart/Exit**: Restart the game or quit after each session.
 
 ---
