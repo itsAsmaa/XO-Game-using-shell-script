@@ -12,7 +12,9 @@ This script implements an interactive XO (Tic-Tac-Toe) game in the terminal with
   the game grid FORMAT should look like this the input xo doesnt mater also it can be any size :
 
   |X|O|X|
+  
   |X|X|O|
+  
   |O|X|O|
 
 - **Game Restart/Exit**: Restart the game or quit after each session.
