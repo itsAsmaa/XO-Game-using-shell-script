@@ -20,7 +20,7 @@ This script implements an interactive XO (Tic-Tac-Toe) game in the terminal with
 ---
 
 ## Setup and Execution:
-1. **Download the script**: Download the script `xo_game.sh` to your machine.
+1. **Download the script**: Download the script `linux_p1.sh` to your machine.
 2. **Make the script executable**:
    ```bash
    chmod +x linux_p1.sh
